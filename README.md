@@ -37,9 +37,9 @@ Introduire une **régulation interne du flux informationnel**, fondée sur la g�
 
 ---
 
-## 📬 Contact
-Envoyer CV, relevés de notes et quelques lignes de motivation à :
-📧 **[pierre.boulet@univ-lille.fr](mailto:pierre.boulet@univ-lille.fr)**
+## 📬 Contact  
+Envoyer CV, relevés de notes et quelques lignes de motivation à :  
+📧 **[pierre.boulet@univ-lille.fr](mailto:pierre.boulet@univ-lille.fr)**  
 📧 **[adrien.fois@univ-lille.fr](mailto:adrien.fois@univ-lille.fr)**
 
 ---
