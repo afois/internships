@@ -1,6 +1,6 @@
 # 🚀 Stages de recherche 2026
 
-### *Quand la physique et les neurosciences rencontrent le machine learning*
+### *Quand le machine learning rencontre la physique et les neurosciences*
 
 Trois stages de recherche sont proposés au laboratoire **CRIStAL**, au croisement du **machine learning**, des **neurosciences computationnelles**, et de la **physique**.
 
