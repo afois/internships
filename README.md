@@ -2,7 +2,8 @@
 
 ### *Quand le machine learning rencontre la physique et les neurosciences*
 
-Trois stages de recherche sont proposés au laboratoire **CRIStAL**, au croisement du **machine learning**, des **neurosciences computationnelles**, et de la **physique**.
+Trois stages de recherche sont proposés au laboratoire **CRIStAL**, au croisement du **machine learning**, des **neurosciences computationnelles**, et de la **physique**.  
+Ils s’inscrivent dans le cadre du **programme national [PEPR Émergences](https://www.pepr-ia.fr/projet/emergence/)**, dédié aux **modèles bio-inspirés, événementiels et proches de la physique** pour une **intelligence artificielle frugale et embarquée**.  
 
 ---
 
@@ -40,15 +41,15 @@ Introduire une **régulation interne du flux informationnel**, fondée sur la g�
 
 ---
 
+## 📍 Informations pratiques
+- **Durée :** 4–6 mois  
+- **Début :** début 2026  
+- **Encadrement :** Pierre Boulet & Adrien Fois  
+- **Lieu :** CRIStAL, Université de Lille  
+
+---
+
 ## 📬 Contact  
 Envoyer CV, relevés de notes et quelques lignes de motivation à :  
 📧 **[pierre.boulet@univ-lille.fr](mailto:pierre.boulet@univ-lille.fr)**  
 📧 **[adrien.fois@univ-lille.fr](mailto:adrien.fois@univ-lille.fr)**
-
----
-
-## 📍 Informations pratiques
-- Durée : 4–6 mois  
-- Début : début 2026  
-- Encadrement : Pierre Boulet & Adrien Fois  
-- Lieu : CRIStAL, Université de Lille
